@@ -29,9 +29,5 @@ This project uses the **FER2013 (Facial Emotion Recognition)** dataset, which co
 
 ---
 
-## 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/spsingh132/Face-Emotion-Detection.git
-   cd Face-Emotion-Detection
+## 📦 Predicted Image
+![Flower Image](./predic_image.png)
