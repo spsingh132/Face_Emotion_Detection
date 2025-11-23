@@ -30,4 +30,4 @@ This project uses the **FER2013 (Facial Emotion Recognition)** dataset, which co
 ---
 
 ## 📦 Predicted Image
-![Flower Image](./predic_image.png)
+![Flower Image](https://github.com/spsingh132/Face_Emotion_Detection/blob/main/predict_image.png)
